@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/rap-winds-aloft/static/css/main.fff503e8.chunk.css",
-    "main.js": "/rap-winds-aloft/static/js/main.e840e5ab.chunk.js",
-    "main.js.map": "/rap-winds-aloft/static/js/main.e840e5ab.chunk.js.map",
-    "runtime-main.js": "/rap-winds-aloft/static/js/runtime-main.28e21791.js",
-    "runtime-main.js.map": "/rap-winds-aloft/static/js/runtime-main.28e21791.js.map",
-    "static/js/2.a0d9dad7.chunk.js": "/rap-winds-aloft/static/js/2.a0d9dad7.chunk.js",
-    "static/js/2.a0d9dad7.chunk.js.map": "/rap-winds-aloft/static/js/2.a0d9dad7.chunk.js.map",
-    "static/js/3.8f1cd121.chunk.js": "/rap-winds-aloft/static/js/3.8f1cd121.chunk.js",
-    "static/js/3.8f1cd121.chunk.js.map": "/rap-winds-aloft/static/js/3.8f1cd121.chunk.js.map",
+    "main.css": "/rap-winds-aloft/static/css/main.5025d56c.chunk.css",
+    "main.js": "/rap-winds-aloft/static/js/main.5ee10470.chunk.js",
+    "main.js.map": "/rap-winds-aloft/static/js/main.5ee10470.chunk.js.map",
+    "runtime-main.js": "/rap-winds-aloft/static/js/runtime-main.41c36519.js",
+    "runtime-main.js.map": "/rap-winds-aloft/static/js/runtime-main.41c36519.js.map",
+    "static/js/2.89893ed6.chunk.js": "/rap-winds-aloft/static/js/2.89893ed6.chunk.js",
+    "static/js/2.89893ed6.chunk.js.map": "/rap-winds-aloft/static/js/2.89893ed6.chunk.js.map",
+    "static/js/3.2dc9b336.chunk.js": "/rap-winds-aloft/static/js/3.2dc9b336.chunk.js",
+    "static/js/3.2dc9b336.chunk.js.map": "/rap-winds-aloft/static/js/3.2dc9b336.chunk.js.map",
     "index.html": "/rap-winds-aloft/index.html",
-    "static/css/main.fff503e8.chunk.css.map": "/rap-winds-aloft/static/css/main.fff503e8.chunk.css.map",
-    "static/js/2.a0d9dad7.chunk.js.LICENSE.txt": "/rap-winds-aloft/static/js/2.a0d9dad7.chunk.js.LICENSE.txt",
-    "static/media/Loading.1831e8a7.svg": "/rap-winds-aloft/static/media/Loading.1831e8a7.svg"
+    "static/css/main.5025d56c.chunk.css.map": "/rap-winds-aloft/static/css/main.5025d56c.chunk.css.map",
+    "static/js/2.89893ed6.chunk.js.LICENSE.txt": "/rap-winds-aloft/static/js/2.89893ed6.chunk.js.LICENSE.txt",
+    "static/media/Loading.1831e8a7.svg": "/rap-winds-aloft/static/media/Loading.1831e8a7.svg",
+    "static/media/Settings.696113c0.svg": "/rap-winds-aloft/static/media/Settings.696113c0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28e21791.js",
-    "static/js/2.a0d9dad7.chunk.js",
-    "static/css/main.fff503e8.chunk.css",
-    "static/js/main.e840e5ab.chunk.js"
+    "static/js/runtime-main.41c36519.js",
+    "static/js/2.89893ed6.chunk.js",
+    "static/css/main.5025d56c.chunk.css",
+    "static/js/main.5ee10470.chunk.js"
   ]
 }
