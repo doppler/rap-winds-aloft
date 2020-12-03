@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rap-winds-aloft/static/css/main.fdda3fe6.chunk.css",
-    "main.js": "/rap-winds-aloft/static/js/main.20dbd0e9.chunk.js",
-    "main.js.map": "/rap-winds-aloft/static/js/main.20dbd0e9.chunk.js.map",
+    "main.css": "/rap-winds-aloft/static/css/main.d8cbb826.chunk.css",
+    "main.js": "/rap-winds-aloft/static/js/main.0e4b75a3.chunk.js",
+    "main.js.map": "/rap-winds-aloft/static/js/main.0e4b75a3.chunk.js.map",
     "runtime-main.js": "/rap-winds-aloft/static/js/runtime-main.f69b47a5.js",
     "runtime-main.js.map": "/rap-winds-aloft/static/js/runtime-main.f69b47a5.js.map",
     "static/js/2.e5f1fab6.chunk.js": "/rap-winds-aloft/static/js/2.e5f1fab6.chunk.js",
@@ -10,17 +10,14 @@
     "static/js/3.51bdb35b.chunk.js": "/rap-winds-aloft/static/js/3.51bdb35b.chunk.js",
     "static/js/3.51bdb35b.chunk.js.map": "/rap-winds-aloft/static/js/3.51bdb35b.chunk.js.map",
     "index.html": "/rap-winds-aloft/index.html",
-    "static/css/main.fdda3fe6.chunk.css.map": "/rap-winds-aloft/static/css/main.fdda3fe6.chunk.css.map",
+    "static/css/main.d8cbb826.chunk.css.map": "/rap-winds-aloft/static/css/main.d8cbb826.chunk.css.map",
     "static/js/2.e5f1fab6.chunk.js.LICENSE.txt": "/rap-winds-aloft/static/js/2.e5f1fab6.chunk.js.LICENSE.txt",
-    "static/media/BackButton.93e6347d.svg": "/rap-winds-aloft/static/media/BackButton.93e6347d.svg",
-    "static/media/ForwardButton.fa4772a8.svg": "/rap-winds-aloft/static/media/ForwardButton.fa4772a8.svg",
-    "static/media/Loading.1831e8a7.svg": "/rap-winds-aloft/static/media/Loading.1831e8a7.svg",
-    "static/media/MenuIcon.5493e055.svg": "/rap-winds-aloft/static/media/MenuIcon.5493e055.svg"
+    "static/media/Loading.1831e8a7.svg": "/rap-winds-aloft/static/media/Loading.1831e8a7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f69b47a5.js",
     "static/js/2.e5f1fab6.chunk.js",
-    "static/css/main.fdda3fe6.chunk.css",
-    "static/js/main.20dbd0e9.chunk.js"
+    "static/css/main.d8cbb826.chunk.css",
+    "static/js/main.0e4b75a3.chunk.js"
   ]
 }
